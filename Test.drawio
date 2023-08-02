@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2023-08-02T09:43:32.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.5.0" etag="2KsQ7iHwuREy5U6FgJTK" type="device">
+  <diagram name="Page-1" id="xxxxxxxxxxxxxxxx">
+    <mxGraphModel dx="1354" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-37" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-12" target="1e0NWYF_aL8pDM7flWo0-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-12" value="Is the vulnerability addressed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-19" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-14" target="1e0NWYF_aL8pDM7flWo0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-14" target="1e0NWYF_aL8pDM7flWo0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-14" value="user base &amp;lt;= 25%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="249" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-18" target="1e0NWYF_aL8pDM7flWo0-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-18" value="Mandate the version&amp;nbsp;in 10 days" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="274" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-20" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-21" target="1e0NWYF_aL8pDM7flWo0-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-27" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-21" target="1e0NWYF_aL8pDM7flWo0-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-21" value="user base&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;between&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;gt;25% and &amp;lt;50%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="388" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-22" target="1e0NWYF_aL8pDM7flWo0-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-22" value="Mandate the version&amp;nbsp;in 30 days" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-23" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-24" target="1e0NWYF_aL8pDM7flWo0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-24" target="1e0NWYF_aL8pDM7flWo0-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="341" y="670" />
+              <mxPoint x="754" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-24" value="user base&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;between&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;gt;=50%" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="528" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-25" target="1e0NWYF_aL8pDM7flWo0-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-25" value="Mandate the version in 60 days" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="553" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-38" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-36" target="1e0NWYF_aL8pDM7flWo0-14">
+          <mxGeometry x="0.2157" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-39" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-36" target="1e0NWYF_aL8pDM7flWo0-18">
+          <mxGeometry x="-0.7312" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-36" value="Is the major vulnerability addressed?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="110" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1e0NWYF_aL8pDM7flWo0-40" target="1e0NWYF_aL8pDM7flWo0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-40" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1e0NWYF_aL8pDM7flWo0-41" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="709" y="433" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
